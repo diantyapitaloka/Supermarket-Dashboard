@@ -4,6 +4,7 @@
 - Customer Demographics & Behavior This section breaks down purchasing patterns based on customer types, gender, and membership status. It helps the business understand their core audience and develop personalized loyalty programs to increase retention.
 - Payment Method Trends This metric tracks the popularity of different payment options, such as e-wallets, credit cards, and cash. Monitoring these trends ensures the supermarket provides the most convenient checkout experiences for its modern shoppers.
 - Operational Efficiency Metrics The dashboard evaluates peak shopping hours and average transaction values to assist in staff scheduling. Data-driven insights from this section help reduce checkout wait times and improve overall service quality.
+- Profit Margin & Growth By comparing cost of goods sold against total sales, the dashboard highlights the net profitability of the supermarket chain. It serves as a vital tool for long-term financial planning and identifying areas for cost reduction.
 
 ![image](https://github.com/diantyapitaloka/Performance-Supermarket/assets/147487436/0421b9ee-888e-47e4-9848-2426fab09091)
 
