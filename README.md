@@ -3,6 +3,7 @@
 - Product Category Analysis The charts detail the distribution of sales across various product lines, from fresh produce to household goods. By analyzing these metrics, management can optimize inventory levels and tailor marketing strategies to consumer preferences.
 - Customer Demographics & Behavior This section breaks down purchasing patterns based on customer types, gender, and membership status. It helps the business understand their core audience and develop personalized loyalty programs to increase retention.
 - Payment Method Trends This metric tracks the popularity of different payment options, such as e-wallets, credit cards, and cash. Monitoring these trends ensures the supermarket provides the most convenient checkout experiences for its modern shoppers.
+- Operational Efficiency Metrics The dashboard evaluates peak shopping hours and average transaction values to assist in staff scheduling. Data-driven insights from this section help reduce checkout wait times and improve overall service quality.
 
 ![image](https://github.com/diantyapitaloka/Performance-Supermarket/assets/147487436/0421b9ee-888e-47e4-9848-2426fab09091)
 
