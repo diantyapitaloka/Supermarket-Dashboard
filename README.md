@@ -10,6 +10,7 @@
 - Year-over-Year (YoY) Growth: This tracks performance against the same period in previous years, accounting for seasonality (e.g., holiday spikes) to ensure the business is scaling, not just fluctuating.
 - Inventory Turnover & Shrinkage Rates: This section monitors how quickly stock is sold and replaced versus losses from theft, damage, or expiration. High turnover indicates efficient stock management, while tracking "shrinkage" helps identify security or handling issues in specific branches.
 - Basket Analysis (Market Basket Insights): By analyzing which products are frequently bought together (e.g., milk and cereal), the dashboard identifies cross-selling opportunities. This data informs shelf placement strategies and "frequently bought together" promotional bundles.
+- Supplier Lead Time & Reliability: This tracks the performance of vendors by measuring the time between order placement and delivery, as well as the accuracy of the shipments. It helps management identify which suppliers are causing stockouts or delays in the supply chain.
 
 ![image](https://github.com/diantyapitaloka/Performance-Supermarket/assets/147487436/0421b9ee-888e-47e4-9848-2426fab09091)
 
