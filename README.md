@@ -7,6 +7,7 @@
 - Profit Margin & Growth By comparing cost of goods sold against total sales, the dashboard highlights the net profitability of the supermarket chain. It serves as a vital tool for long-term financial planning and identifying areas for cost reduction.
 - Gross vs. Net Margin: The dashboard tracks the Gross Profit Margin (Revenue minus Cost of Goods Sold) and the Net Profit Margin (which includes labor, utilities, and logistics). This helps identify if a high-revenue branch is actually losing money due to high overhead.
 - Price Elasticity & Markdowns: By monitoring margin fluctuations, management can see the impact of discounts. If a 20% discount on "Fresh Produce" triples volume but slashes the margin to near zero, the dashboard helps re-evaluate that promotion.
+- Year-over-Year (YoY) Growth: This tracks performance against the same period in previous years, accounting for seasonality (e.g., holiday spikes) to ensure the business is scaling, not just fluctuating.
 
 ![image](https://github.com/diantyapitaloka/Performance-Supermarket/assets/147487436/0421b9ee-888e-47e4-9848-2426fab09091)
 
