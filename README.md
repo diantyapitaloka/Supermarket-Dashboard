@@ -8,6 +8,7 @@
 - Gross vs. Net Margin: The dashboard tracks the Gross Profit Margin (Revenue minus Cost of Goods Sold) and the Net Profit Margin (which includes labor, utilities, and logistics). This helps identify if a high-revenue branch is actually losing money due to high overhead.
 - Price Elasticity & Markdowns: By monitoring margin fluctuations, management can see the impact of discounts. If a 20% discount on "Fresh Produce" triples volume but slashes the margin to near zero, the dashboard helps re-evaluate that promotion.
 - Year-over-Year (YoY) Growth: This tracks performance against the same period in previous years, accounting for seasonality (e.g., holiday spikes) to ensure the business is scaling, not just fluctuating.
+- Inventory Turnover & Shrinkage Rates: This section monitors how quickly stock is sold and replaced versus losses from theft, damage, or expiration. High turnover indicates efficient stock management, while tracking "shrinkage" helps identify security or handling issues in specific branches.
 
 ![image](https://github.com/diantyapitaloka/Performance-Supermarket/assets/147487436/0421b9ee-888e-47e4-9848-2426fab09091)
 
