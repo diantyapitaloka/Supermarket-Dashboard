@@ -23,6 +23,7 @@
 - The charts detail the distribution of sales across various product lines, from fresh produce to household goods. By analyzing these metrics, management can optimize inventory levels and tailor marketing strategies to consumer preferences.
 - This area aggregates digital receipt ratings, direct feedback surveys, and checkout service complaints to gauge overall shopper sentiment. Monitoring these trends helps store managers identify specific service bottlenecks and implement targeted staff retraining.
 - This dashboard element tracks real-time utility usage, refrigeration efficiency, and carbon footprints across all physical properties. By isolating high-consumption periods, operations can implement smart eco-modifications to lower overhead costs and meet green corporate goals.
+- This module tracks the volume and fulfillment speed of online grocery orders alongside third-party delivery service efficiency. Analyzing these logistics metrics allows the business to optimize picking routes and ensure temperature-sensitive goods arrive fresh.
 
 ![image](https://github.com/diantyapitaloka/Performance-Supermarket/assets/147487436/0421b9ee-888e-47e4-9848-2426fab09091)
 
