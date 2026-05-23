@@ -21,6 +21,7 @@
 - Basket Analysis (Market Basket Insights): By analyzing which products are frequently bought together (e.g., milk and cereal), the dashboard identifies cross-selling opportunities. This data informs shelf placement strategies and "frequently bought together" promotional bundles.
 - Supplier Lead Time & Reliability: This tracks the performance of vendors by measuring the time between order placement and delivery, as well as the accuracy of the shipments. It helps management identify which suppliers are causing stockouts or delays in the supply chain.
 - The charts detail the distribution of sales across various product lines, from fresh produce to household goods. By analyzing these metrics, management can optimize inventory levels and tailor marketing strategies to consumer preferences.
+- This area aggregates digital receipt ratings, direct feedback surveys, and checkout service complaints to gauge overall shopper sentiment. Monitoring these trends helps store managers identify specific service bottlenecks and implement targeted staff retraining.
 
 ![image](https://github.com/diantyapitaloka/Performance-Supermarket/assets/147487436/0421b9ee-888e-47e4-9848-2426fab09091)
 
